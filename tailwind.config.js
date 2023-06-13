@@ -7,7 +7,8 @@ module.exports = {
         'back-body': '#232622',
         'text-nav': '#F2DE79',
         'back-nav': '#8C897B',
-        'text-sec': '#D9601A'
+        'text-sec': '#D9601A',
+        'icon-color': '#F2DE79'
       }
     },
   },
